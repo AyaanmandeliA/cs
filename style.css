@@ -1,0 +1,26 @@
+.test_image_andr{
+    background-color: grey;
+    border-radius: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+}
+img{
+    border-radius: 30px;
+    
+}
+h5{
+    background-color: aliceblue;
+    padding: 8px;
+    border-radius: 30px;
+}
+b{
+    font-size:15px;
+    color: purple;
+}
+.mini_result{
+    color: white;
+}
+body{
+    margin-right: 15px;
+}
